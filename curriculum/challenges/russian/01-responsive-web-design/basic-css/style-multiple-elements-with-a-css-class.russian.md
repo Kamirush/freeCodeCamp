@@ -3,7 +3,7 @@ id: bad87fee1348bd9aefe08806
 title: Style Multiple Elements with a CSS Class
 challengeType: 0
 videoUrl: ''
-localeTitle: Стиль нескольких элементов с классом CSS
+localeTitle: Изменение сразу нескольких элементов с помошью CSS класса
 ---
 
 ## Description
